@@ -1,0 +1,10 @@
+body {
+    position: relative;
+}
+
+.logo {
+    position: absolute;
+    width: 10%;
+    top: -33px;
+    right: 0;
+}
